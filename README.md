@@ -9,4 +9,7 @@ https://github.com/cyrilmottier/GreenDroid
 https://github.com/openaphid/android-flip
 ![image](http://cms.csdnimg.cn/article/201305/03/51834f7e3c8a5.jpg)
 
-3.
+3.一个灵感来自Designer News, Dribbble & Product Hunt的material design效果.
+https://github.com/nickbutcher/plaid
+![image](https://github.com/nickbutcher/plaid/blob/master/screenshots/plaid_demo.gif)
+![image](https://github.com/nickbutcher/plaid/blob/master/screenshots/dn_story_framed.png)
