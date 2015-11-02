@@ -31,7 +31,14 @@ https://github.com/ksoichiro/Android-ObservableScrollView
 ![image](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo12.gif)
 ![image](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo11.gif)
 
+8.AndroidImageSlider:一个漂亮的Slider。https://github.com/daimajia/AndroidImageSlider
+![image](https://camo.githubusercontent.com/f64413139bbaa918131384d3597c33e39333aa7f/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a773165677a6f7236366f6a64673230393530666b6e70652e676966)
 
+9.AndroidViewAnimations:视图动画效果
+https://github.com/daimajia/AndroidViewAnimations
+![image](https://camo.githubusercontent.com/c41223966bdfed2260dbbabbcbae648e5db542c6/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3631306463303334677731656a37356d69327737376732306333306a623471722e676966)
+
+10.
 
 
 
