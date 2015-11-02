@@ -21,7 +21,12 @@ https://github.com/nickbutcher/plaid
 随着Material Design的到来，AppCompat v21也为开发者提供了Material Design的控件外观支持，其中就包括EditText，但却并不好用，没有设置颜色的API，也没有任何Google Material Design Spec中提到的特性。于是，来自国内的开发者“扔物线”开发了MaterialEditText库，直接继承EditText，无需修改Java文件即能实现自定义控件颜色。
 ![image](https://github.com/rengwuxian/MaterialEditText/blob/master/images/material_edittext.png)
 
-6.
+6.Android-LollipopShowcase是由来自奥地利的移动、后端及Web开发者Mike Penz所开发的演示应用，集中演示了新Material Design中所有的UI效果，以及Android Lollipop中其他非常酷炫的特性元素，比如Toolbar、RecyclerView、ActionBarDrawerToggle、Floating Action Button（FAB）、Android Compat Theme等。
+https://github.com/mikepenz/LollipopShowcase
+![image](http://cms.csdnimg.cn/article/201411/21/546ed8a896530_middle.jpg)
+
+7.
+
 
 
 
