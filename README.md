@@ -27,7 +27,9 @@ https://github.com/mikepenz/LollipopShowcase
 
 7.Android-ObservableScrollView是一款用于在滚动视图中观测滚动事件的Android库。它能够轻而易举地与Android 5.0 Lollipop引进的工具栏（Toolbar）进行交互，还可以帮助开发者实现拥有Material Design应用视觉体验的界面外观，支持ListView、ScrollView、WebView、RecyclerView、GridView组件。
 https://github.com/ksoichiro/Android-ObservableScrollView
-![image](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo10.gif,https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo12.gif,https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo11.gif)
+![image](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo10.gif)
+![image](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo12.gif)
+![image](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo11.gif)
 
 
 
