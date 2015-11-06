@@ -38,7 +38,8 @@ https://github.com/ksoichiro/Android-ObservableScrollView
 https://github.com/daimajia/AndroidViewAnimations
 ![image](https://camo.githubusercontent.com/c41223966bdfed2260dbbabbcbae648e5db542c6/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f3631306463303334677731656a37356d69327737376732306333306a623471722e676966)
 
-10.
+10.一款粘性菜单弹跳动画效果,灵感来自Material design.https://github.com/melvinjlobo/MetaballMenu
+![image](https://github.com/melvinjlobo/MetaballMenu/blob/master/MetaballMenu.gif)
 
 
 
