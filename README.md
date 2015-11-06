@@ -41,8 +41,10 @@ https://github.com/daimajia/AndroidViewAnimations
 10.一款粘性菜单弹跳动画效果,灵感来自Material design.https://github.com/melvinjlobo/MetaballMenu
 ![image](https://github.com/melvinjlobo/MetaballMenu/blob/master/MetaballMenu.gif)
 
-11.
+11.一些简单使用的动画效果.https://github.com/robinxdroid/XDroidAnimation
+![image](https://github.com/robinxdroid/XDroidAnimation/blob/master/XDroidAnimation.gif)
 
+12.
 
 
 
