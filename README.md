@@ -44,7 +44,10 @@ https://github.com/daimajia/AndroidViewAnimations
 11.一些简单使用的动画效果.https://github.com/robinxdroid/XDroidAnimation
 ![image](https://github.com/robinxdroid/XDroidAnimation/blob/master/XDroidAnimation.gif)
 
-12.
+12.CustomLoading For Android;https://github.com/stormzhang/CustomLoading
+![image](https://camo.githubusercontent.com/ee39acccb6e9fa027235180e3a85a683ba2cca58/68747470733a2f2f7261772e6769746875622e636f6d2f73746f726d7a68616e672f437573746f6d4c6f6164696e672f6d61737465722f736e61702e6a7067)
+
+13.
 
 
 
