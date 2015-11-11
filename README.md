@@ -1,6 +1,9 @@
 # Android---UI-
 Github上的UI效果收集
 
+0.一个很酷的检测UI的工具，包括View的层级、边界、事件等，总之一副很屌的样子。https://github.com/xfumihiro/ViewInspector
+![image](https://github.com/xfumihiro/ViewInspector/blob/master/images/sample.gif)
+
 1.GreenDroid最初是由Cyril Mottier发起，是一个Android的UI开发类库，能够让UI开发更加简便，并且在应用中始终保持一致.
 https://github.com/cyrilmottier/GreenDroid
 ![image](http://cms.csdnimg.cn/article/201305/03/51834d911e3dc.jpg)
