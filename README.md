@@ -2,7 +2,8 @@
 
 #Github上的UI效果收集
 
-0.一个很酷的检测UI的工具，包括View的层级、边界、事件等，总之一副很屌的样子。https://github.com/xfumihiro/ViewInspector         
+0.一个很酷的检测UI的工具，包括View的层级、边界、事件等，总之一副很屌的样子。
+https://github.com/xfumihiro/ViewInspector                
 ![image](https://github.com/xfumihiro/ViewInspector/blob/master/images/sample.gif)
 
 
@@ -31,13 +32,13 @@ https://github.com/nickbutcher/plaid
 ![image](https://github.com/rengwuxian/MaterialEditText/blob/master/images/material_edittext.png)
 
 
-6.Android-LollipopShowcase是由来自奥地利的移动、后端及Web开发者Mike Penz所开发的演示应用，集中演示了新Material Design中所有的UI效果，以及Android Lollipop中其他非常酷炫的特性元素，比如Toolbar、RecyclerView、ActionBarDrawerToggle、Floating Action Button（FAB）、Android Compat Theme等。
-https://github.com/mikepenz/LollipopShowcase
+6.Android-LollipopShowcase是由来自奥地利的移动、后端及Web开发者Mike Penz所开发的演示应用，集中演示了新Material Design中所有的UI效果，以及AndroidLollipop中其他非常酷炫的特性元素，比如Toolbar、RecyclerView、ActionBarDrawerToggle、Floating Action Button（FAB）、Android Compat Theme等。
+https://github.com/mikepenz/LollipopShowcase                
 ![image](http://cms.csdnimg.cn/article/201411/21/546ed8a896530_middle.jpg)
 
 
 7.Android-ObservableScrollView是一款用于在滚动视图中观测滚动事件的Android库。它能够轻而易举地与Android 5.0 Lollipop引进的工具栏（Toolbar）进行交互，还可以帮助开发者实现拥有Material Design应用视觉体验的界面外观，支持ListView、ScrollView、WebView、RecyclerView、GridView组件。
-https://github.com/ksoichiro/Android-ObservableScrollView
+https://github.com/ksoichiro/Android-ObservableScrollView              
 ![image](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo10.gif)
 ![image](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo12.gif)
 ![image](https://raw.githubusercontent.com/ksoichiro/Android-ObservableScrollView/master/samples/images/demo11.gif)
