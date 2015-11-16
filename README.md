@@ -81,7 +81,11 @@ https://github.com/rahulrj/YahooNewsOnboarding
 ![image](https://raw.githubusercontent.com/ZhaoKaiQiang/KLog/master/image/demo.gif)
 
 
-17.
+17.选择省份或者是城市模块，可以直接拿来用.https://github.com/ZhaoKaiQiang/SelectCityModule           
+![image](https://camo.githubusercontent.com/42de7e5e764d83afdc116fa3ba1ef423d2aefe4e/687474703a2f2f6931312e74696574756b752e636f6d2f333261623439616333383262376466642e676966)
+
+
+18.
 
 
 
