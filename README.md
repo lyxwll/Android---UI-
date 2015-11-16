@@ -85,7 +85,58 @@ https://github.com/rahulrj/YahooNewsOnboarding
 ![image](https://camo.githubusercontent.com/42de7e5e764d83afdc116fa3ba1ef423d2aefe4e/687474703a2f2f6931312e74696574756b752e636f6d2f333261623439616333383262376466642e676966)
 
 
-18.
+18.仿iOS的AlertViewController 几乎完美还原iOS的AlertViewController,同时支持Alert和ActionSheet模式，每一个细节都是精雕细琢，并把api封装成懒到极致模式，一行代码就可以进行弹窗.       
+https://github.com/saiwu-bigkoo/Android-AlertView              
+![image](https://github.com/saiwu-bigkoo/Android-AlertView/blob/master/preview/alertviewdemo.gif)
+
+
+19.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
