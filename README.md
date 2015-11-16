@@ -69,9 +69,10 @@ https://github.com/rahulrj/YahooNewsOnboarding
 ![image](https://camo.githubusercontent.com/8c53eab0a0296a5ea9f8db289e44cc424fbf4a57/68747470733a2f2f73332d75732d776573742d322e616d617a6f6e6177732e636f6d2f68656c70746573746275636b65742f7961686f6f2d6e6577732d64656d6f2e676966)
 
 
-14.
+14.一个用于app指向性功能高亮的库.https://github.com/hongyangAndroid/Highlight      
+![image](https://github.com/hongyangAndroid/Highlight/blob/master/highlight2.gif).
 
-
+15.
 
 
 
