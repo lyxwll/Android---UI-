@@ -72,7 +72,11 @@ https://github.com/rahulrj/YahooNewsOnboarding
 14.一个用于app指向性功能高亮的库.https://github.com/hongyangAndroid/Highlight      
 ![image](https://github.com/hongyangAndroid/Highlight/blob/master/highlight2.gif).
 
-15.
+15.一款标尺状选择的WheelView,可以选择日期,金钱等其他短的长度值.https://github.com/lantouzi/WheelView-Android      
+![image](https://raw.githubusercontent.com/lantouzi/WheelView-Android/master/preview/demo.jpg)
+
+16.
+
 
 
 
