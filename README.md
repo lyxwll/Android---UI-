@@ -75,8 +75,9 @@ https://github.com/rahulrj/YahooNewsOnboarding
 15.一款标尺状选择的WheelView,可以选择日期,金钱等其他短的长度值.https://github.com/lantouzi/WheelView-Android      
 ![image](https://raw.githubusercontent.com/lantouzi/WheelView-Android/master/preview/demo.jpg)
 
-16.一个Android专用的LogCat工具，主要功能为打印行号、函数调用、Json解析、点击跳转等。http://blog.csdn.net/zhaokaiqiang1992/article/details/49837627#klog的特点             
-https://github.com/ZhaoKaiQiang/KLog                 
+16.一个Android专用的LogCat工具，主要功能为打印行号、函数调用、Json解析、点击跳转等。      
+使用地址:http://blog.csdn.net/zhaokaiqiang1992/article/details/49837627     
+项目地址:https://github.com/ZhaoKaiQiang/KLog                 
 ![image](https://raw.githubusercontent.com/ZhaoKaiQiang/KLog/master/image/demo.gif)
 
 
