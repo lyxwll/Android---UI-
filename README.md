@@ -90,7 +90,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://github.com/saiwu-bigkoo/Android-AlertView/blob/master/preview/alertviewdemo.gif)
 
 
-19.
+19.仿手机QQ聊天列表滑动菜单删除和手势滑动返回的两种方式.https://github.com/finddreams/SlidingBack                   
+![image](https://camo.githubusercontent.com/c2f4f341eb333532fdef0c693a5100d55c745ae7/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313530333237313632373333343436)
+
+20.
+
+
 
 
 
