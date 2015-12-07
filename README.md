@@ -93,7 +93,11 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 19.仿手机QQ聊天列表滑动菜单删除和手势滑动返回的两种方式.https://github.com/finddreams/SlidingBack                   
 ![image](https://camo.githubusercontent.com/c2f4f341eb333532fdef0c693a5100d55c745ae7/687474703a2f2f696d672e626c6f672e6373646e2e6e65742f3230313530333237313632373333343436)
 
-20.
+20.Android消息数显示控件.项目地址:https://github.com/bingoogolapple/BGABadgeView-Android                              
+![image](https://camo.githubusercontent.com/a553ef0ebc010a7678117285edca3c3242d3bceb/687474703a2f2f37786b39646a2e636f6d312e7a302e676c622e636c6f7564646e2e636f6d2f62616467652f73637265656e73686f74732f62616467653130362e676966)
+
+
+21.
 
 
 
