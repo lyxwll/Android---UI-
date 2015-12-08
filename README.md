@@ -1,6 +1,10 @@
 # Android---UI-
 
-#Github上的UI效果收集
+#Github上的UI效果收集         
+
+-1.Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。           
+项目地址:https://github.com/lyxwll/AndroidAutoLayout            
+![image](https://github.com/lyxwll/AndroidAutoLayout/blob/master/autolayout_08.png),![image](https://github.com/lyxwll/AndroidAutoLayout/blob/master/autolayout_09.png)
 
 0.一个很酷的检测UI的工具，包括View的层级、边界、事件等，总之一副很屌的样子。
 https://github.com/xfumihiro/ViewInspector                
