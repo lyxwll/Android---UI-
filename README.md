@@ -160,7 +160,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](http://img.my.csdn.net/uploads/201503/21/1426921698_2722.gif-thumb.jpg)       
 
 
-33.
+33.PersistentSearch,在点击搜索的时候控件在原有位置显示输入框。          
+项目地址：https://github.com/Quinny898/PersistentSearch           
+![image](https://raw.githubusercontent.com/Quinny898/PersistentSearch/master/resources/search.gif)        
+
+
+34.
 
 
 
