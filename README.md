@@ -120,7 +120,17 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://camo.githubusercontent.com/46c15734b552ce3afefa7efd1518909046b4677e/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313738353237342f39396d696c65732d70726f66696c652d6c696768745f312d312d342e676966)         
 
 
-25.
+25.Titanic,可以显示水位上升下降的TextView             
+项目地址：https://github.com/RomainPiel/Titanic              
+![image](https://github.com/RomainPiel/Titanic/blob/master/titanic.gif)      
+
+
+26.Android Typeface Helper,可以帮你轻松实现自定义字体的库              
+项目地址：https://github.com/norbsoft/android-typeface-helper         
+![image](https://camo.githubusercontent.com/b8e7d4f4ab84ff96a3919ea264e2a83aca46e04e/68747470733a2f2f7261772e6769746875622e636f6d2f6e6f7262736f66742f616e64726f69642d74797065666163652d68656c7065722f6d61737465722f726561646d655f73637265656e2e706e67)
+
+
+27.
 
 
 
