@@ -165,7 +165,39 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://raw.githubusercontent.com/Quinny898/PersistentSearch/master/resources/search.gif)        
 
 
-34.
+34.discrollview,当上下滚动的时候子元素会呈现不同动画效果的scrollView，网页上称之为：视差滚动.        
+项目地址： https://github.com/flavienlaurent/discrollview           
+![image](http://img.my.csdn.net/uploads/201503/21/1426922579_2121.gif-thumb.jpg)         
+
+
+35..sweet-alert-dialog,一个带动画效果的自定义对话框样式.            
+项目地址：https://github.com/pedant/sweet-alert-dialog         
+![image](https://raw.githubusercontent.com/pedant/sweet-alert-dialog/master/change_type.gif)     
+
+
+36.android-floating-action-button,Material Desig风格的浮动操作按钮.            
+项目地址：https://github.com/futuresimple/android-floating-action-button      
+![image](https://github.com/futuresimple/android-floating-action-button/blob/master/screenshots/menu.gif)       
+
+
+37.android-collapse-calendar-view,可以在月视图与周视图之间切换的calendar控件             
+项目地址：https://github.com/blazsolar/android-collapse-calendar-view          
+![image](https://raw.githubusercontent.com/blazsolar/android-collapse-calendar-view/develop/images/preview.gif)       
+
+
+38.NumberProgressBar,个简约性感的数字进度条            
+项目地址：https://github.com/daimajia/NumberProgressBar           
+![image](https://camo.githubusercontent.com/0c92568af7ec4e04e2e1503acdd2ca99854ab0b5/687474703a2f2f7777332e73696e61696d672e636e2f6d773639302f36313064633033346a77316566797264386e376937673230637a30326d7135662e676966)          
+
+
+39.CircularProgressView,CircularProgressView 是通过自定义view的方式实现的Material风格的加载提示控件，兼容任何版本。        
+项目地址：https://github.com/rahatarmanahmed/CircularProgressView          
+![image](https://camo.githubusercontent.com/83ae9ba94467c0a27e4b3915c2d48ecb61400682/68747470733a2f2f7261772e6769746875622e636f6d2f726168617461726d616e61686d65642f43697263756c617250726f6772657373566965772f6d61737465722f6769662f73616d706c65496e64657465726d696e6174652e676966)           
+
+
+40.
+
+
 
 
 
