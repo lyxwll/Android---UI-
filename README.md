@@ -150,8 +150,17 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](http://img.my.csdn.net/uploads/201503/21/1426920817_9915.gif-thumb.jpg)          
 
 
-31.
+31.SpringIndicator,使用bezier实现粘连效果的页面指示              
+项目地址：https://github.com/chenupt/SpringIndicator          
+![image](https://raw.githubusercontent.com/chenupt/SpringIndicator/master/img/si_1.0.0.gif)
 
+
+32.FoldableLayout,折叠的信纸被打开一样的动画效果         
+项目地址：https://github.com/alexvasilkov/FoldableLayout          
+![image](http://img.my.csdn.net/uploads/201503/21/1426921698_2722.gif-thumb.jpg)       
+
+
+33.
 
 
 
