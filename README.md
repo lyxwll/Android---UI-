@@ -105,7 +105,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://camo.githubusercontent.com/a71e9d26a7f90ea70270b3681d99785a29f83be5/687474703a2f2f7777312e73696e61696d672e636e2f6d773639302f6136393561636465677731656d79746e6b347334356732306567306d6b3439302e676966)         
 
 
-22.
+22.An android view,which can layer on any gravity for swiping.          
+项目地址:https://github.com/aicaprio/CurtainView            
+![image](https://github.com/aicaprio/CurtainView/blob/master/preview/p1.gif),![image](https://github.com/aicaprio/CurtainView/blob/master/preview/p2.gif)            
+
+
+23.
 
 
 
