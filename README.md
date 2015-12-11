@@ -130,7 +130,27 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://camo.githubusercontent.com/b8e7d4f4ab84ff96a3919ea264e2a83aca46e04e/68747470733a2f2f7261772e6769746875622e636f6d2f6e6f7262736f66742f616e64726f69642d74797065666163652d68656c7065722f6d61737465722f726561646d655f73637265656e2e706e67)
 
 
-27.
+27.ToggleButton,状态切换的 Button，类似 iOS，用 View 实现            
+项目地址：https://github.com/zcweng/ToggleButton          
+![image](https://github.com/zcweng/ToggleButton/blob/master/ToggleButtonSample/21879.gif)    
+
+
+28.实现滑动ViewPager渐变背景色             
+项目地址：https://github.com/TaurusXi/GuideBackgroundColorAnimation         
+![image](https://raw.githubusercontent.com/TaurusXi/GuideBackgroundColorAnimation/master/art/sample.gif)            
+
+
+29.Euclid,用户简历界面，Yalantis 出品。             
+项目地址：https://github.com/Yalantis/Euclid           
+![image](https://camo.githubusercontent.com/b01a910b14ef3573c9e75ce150ef76e155cbbe98/68747470733a2f2f6431337961637572716a676172612e636c6f756466726f6e742e6e65742f75736572732f3132353035362f73637265656e73686f74732f313734343135372f39396d696c65732d7573657270726f66696c652d616e696d6174696f6e5f312d312d332e676966)           
+
+
+30.InstaMaterial,Instagram的一组Material 风格的概念设计.            
+项目地址：https://github.com/frogermcs/InstaMaterial        
+![image](http://img.my.csdn.net/uploads/201503/21/1426920817_9915.gif-thumb.jpg)          
+
+
+31.
 
 
 
