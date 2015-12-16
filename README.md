@@ -199,7 +199,17 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://github.com/H07000223/FlycoLabelView/blob/master/preview.png)         
 
 
-41.
+41.A simple way to "badge" any given Android view at runtime without having to cater for it in layout.           
+项目地址:https://github.com/jgilfelt/android-viewbadger             
+![image](https://camo.githubusercontent.com/a705a3e88c75ae2394943bd7c56f725697616ea8/687474703a2f2f7777772e6a65666667696c66656c742e636f6d2f766965776261646765722f76622d31612e706e67)             
+
+
+42.Interesting android title bar with immersive status bar and scroll animation like tumblr app (color of icon and text on title bar gradually change to end color).           
+项目地址:https://github.com/markzhai/InterestingTitleBar              
+![image](https://github.com/markzhai/InterestingTitleBar/blob/master/art/recording.gif)           
+
+
+43.
 
 
 
