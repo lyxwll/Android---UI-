@@ -209,7 +209,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://github.com/markzhai/InterestingTitleBar/blob/master/art/recording.gif)           
 
 
-43.
+43.安卓选择器类库，包括日期时间选择器、单项选择器、地址选择器、颜色选择器、文件目录选择器、数字选择器、星座选择器等。Picker for android, include date&time/option/color/file&directory/number.             
+项目地址:https://github.com/gzu-liyujiang/AndroidPicker            
+![image](https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/date.gif),![image](https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/time.gif),![image](https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/option.gif),![image](https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/address.gif),![image](https://github.com/gzu-liyujiang/AndroidPicker/blob/master/screenshots/constellation.gif)            
+
+
+44.
 
 
 
