@@ -229,7 +229,13 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://github.com/crazyhl/PopupButton/blob/master/pic.gif)             
 
 
-47.
+47.SearchView:Yet another floating search view implementation, also known as persistent search.
+项目地址:https://github.com/renaudcerrato/FloatingSearchView             
+![image](https://github.com/renaudcerrato/FloatingSearchView/blob/master/assets/demo.gif)           
+
+
+48.
+
 
 
 
