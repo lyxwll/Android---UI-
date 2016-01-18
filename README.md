@@ -234,7 +234,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://github.com/renaudcerrato/FloatingSearchView/blob/master/assets/demo.gif)           
 
 
-48.
+48.Android Tooltip.Create Toast like tooltips, physical targets can be specified, or even points on screen. Many additional features and customizations. Just look at the samples Activities.                     
+项目地址:https://github.com/lyxwll/android-target-tooltip                 
+![image](https://github.com/lyxwll/android-target-tooltip/blob/master/screenshots/image01.png)                     
+
+
+49.
 
 
 
