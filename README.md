@@ -249,7 +249,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://github.com/nekocode/ToolbarIndicator/blob/master/art/preview.gif)                 
 
 
-51.
+51.CalendarPager:This is one horizontal calendar with viewPager.recyclerview横向滑动的日历.           
+项目地址:https://github.com/lyxwll/CalendarPager                                   
+![image](https://github.com/lyxwll/CalendarPager/blob/master/screenshot/screenshot_switch.gif),![image](https://github.com/lyxwll/CalendarPager/blob/master/screenshot/screenshot_expand.gif)                   
+
+
+52.
      
 
 
