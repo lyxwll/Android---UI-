@@ -239,8 +239,18 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://github.com/lyxwll/android-target-tooltip/blob/master/screenshots/image01.png)                     
 
 
-49.
+49.SlideSwitch is A widget likes switch, which works with ViewPager and two fragments. It is developed based on PagerSlidingTabStrip and supports gradient on text color.                               
+项目地址:https://github.com/small-dream/SlideSwitch                           
+![image](https://camo.githubusercontent.com/d2d689bfb90fdd6a6952c142cb2565eefa8dacf9/687474703a2f2f7777342e73696e61696d672e636e2f6d773639302f39306264383966666a7731657a653875393277787567323061363068383433792e676966)
+     
+     
+50.ToolbatIndicator:模仿Twitter iOS 客户端顶部栏的指示器.                                          
+项目地址:https://github.com/nekocode/ToolbarIndicator                    
+![image](https://github.com/nekocode/ToolbarIndicator/blob/master/art/preview.gif)                 
 
+
+51.
+     
 
 
 
