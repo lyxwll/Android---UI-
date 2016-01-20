@@ -254,7 +254,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://github.com/lyxwll/CalendarPager/blob/master/screenshot/screenshot_switch.gif),![image](https://github.com/lyxwll/CalendarPager/blob/master/screenshot/screenshot_expand.gif)                   
 
 
-52.
+52.Android-PickerView:仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果.                        
+项目地址:https://github.com/lyxwll/Android-PickerView                             
+![image](https://github.com/saiwu-bigkoo/Android-PickerView/blob/master/preview/pickerdemo_zhangshangshenghuo.gif),![image](https://github.com/saiwu-bigkoo/Android-PickerView/blob/master/preview/pickerdemo1x.gif)                
+
+
+53.
      
 
 
