@@ -263,7 +263,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://github.com/whilu/AndroidTagView/blob/master/screenshots/androidtagview_record_1.gif),![image](https://github.com/whilu/AndroidTagView/blob/master/screenshots/device-2016-01-16-233617.png)                               
 
 
-54.
+54.仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”.                  
+项目地址:https://github.com/Qiaoidea/QQTipsView                                             
+![image](https://raw.githubusercontent.com/Qiaoidea/QQTipsView/master/QQTips_demo.gif)
+
+
+55.
 
      
 
