@@ -268,7 +268,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://raw.githubusercontent.com/Qiaoidea/QQTipsView/master/QQTips_demo.gif)
 
 
-55.
+55.带动画的CheckBox.The custom CheckBox with animation for Android.                    
+项目地址:https://github.com/andyxialm/SmoothCheckBox                           
+![image](https://raw.githubusercontent.com/andyxialm/SmoothCheckBox/master/art/smoothcb.gif)          
+
+
+56.
 
      
 
