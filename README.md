@@ -273,7 +273,17 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://raw.githubusercontent.com/andyxialm/SmoothCheckBox/master/art/smoothcb.gif)          
 
 
-56.
+56.可折叠/展开布局与平滑的动画.             
+项目地址:https://github.com/ubdc/CollapseLayout                  
+![image](https://github.com/ubdc/CollapseLayout/blob/master/images/demo.gif)          
+
+
+57.差效果引导页Simple library that helps developers to create awesome sliding android app tutorial.           
+项目地址:https://github.com/Cleveroad/slidingtutorial-android             
+![image](https://camo.githubusercontent.com/904f01022c0bb3b3ff48b348922ee7796373e578/68747470733a2f2f7777772e636c657665726f61642e636f6d2f7075626c69632f636f6d65726369616c2f536c6964696e675475746f7269616c2e676966)
+
+
+58.
 
      
 
