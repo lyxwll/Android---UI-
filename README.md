@@ -283,7 +283,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://camo.githubusercontent.com/904f01022c0bb3b3ff48b348922ee7796373e578/68747470733a2f2f7777772e636c657665726f61642e636f6d2f7075626c69632f636f6d65726369616c2f536c6964696e675475746f7269616c2e676966)
 
 
-58.
+58.VerticalBannerView是一个android平台下的自定义控件,通常用来展示广告,类似淘宝头条。     
+项目地址:https://github.com/Rowandjj/VerticalBannerView     
+![image](https://github.com/Rowandjj/VerticalBannerView/blob/master/art.gif)     
+
+
+59.
 
      
 
