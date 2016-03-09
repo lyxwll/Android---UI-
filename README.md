@@ -288,7 +288,17 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://github.com/Rowandjj/VerticalBannerView/blob/master/art.gif)     
 
 
-59.
+59.图片裁剪image cropping layout      
+项目地址：https://github.com/yulu/crop-image-layout       
+![image](https://raw.githubusercontent.com/yulu/crop-image-layout/master/doc/crop-image.gif)       
+
+
+60.DialogPlus:Advanced dialog solution for android        
+项目地址:https://github.com/orhanobut/dialogplus       
+![image](https://github.com/orhanobut/dialogplus/blob/master/art/dialogplus.gif),![image](https://github.com/orhanobut/dialogplus/blob/master/art/dialogplusanim.gif)        
+
+
+61.
 
      
 
