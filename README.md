@@ -1,4 +1,4 @@
-# Android---UI-
+# Android---UI效果
 
 #Github上的UI效果收集         
 
@@ -298,7 +298,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 ![image](https://github.com/orhanobut/dialogplus/blob/master/art/dialogplus.gif),![image](https://github.com/orhanobut/dialogplus/blob/master/art/dialogplusanim.gif)        
 
 
-61.
+61.A simple library to add carousel view in android app.      
+https://github.com/sayyam/carouselview     
+![image](https://github.com/sayyam/carouselview/blob/master/sample/src/main/assets/carousel_gif.gif)      
+
+
+62.
 
      
 
