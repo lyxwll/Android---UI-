@@ -49,12 +49,12 @@ https://github.com/ksoichiro/Android-ObservableScrollView
 <img src="./image/7-3.gif" width="30%" height="30%">
 
 
-8.AndroidImageSlider:一个漂亮的Slider。https://github.com/daimajia/AndroidImageSlider
+8.AndroidImageSlider:一个漂亮的Slider。https://github.com/daimajia/AndroidImageSlider     
 <img src="./image/8-1.gif" width="25%" height="20%">
 
 
 9.AndroidViewAnimations:视图动画效果
-https://github.com/daimajia/AndroidViewAnimations
+https://github.com/daimajia/AndroidViewAnimations                
 <img src="./image/9-1.gif" width="25%" height="20%">
 
 
