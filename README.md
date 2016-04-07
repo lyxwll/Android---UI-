@@ -303,7 +303,9 @@ https://github.com/sayyam/carouselview
 ![image](https://github.com/sayyam/carouselview/blob/master/sample/src/main/assets/carousel_gif.gif)      
 
 
-62.
+62.imitate Tumblr's menu, dragging animations look like a snake。可拖拽的菜单    
+https://github.com/xmuSistone/android-snake-menu
+
 
      
 
