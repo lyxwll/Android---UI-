@@ -154,12 +154,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 
 31.SpringIndicator,使用bezier实现粘连效果的页面指示              
 项目地址：https://github.com/chenupt/SpringIndicator          
-<img src="./image/31-1.gif" width="60%" height="20%">
+<img src="./image/31-1.gif" width="25%" height="20%">
 
 
 32.FoldableLayout,折叠的信纸被打开一样的动画效果         
 项目地址：https://github.com/alexvasilkov/FoldableLayout          
-<img src="./image/32-1.gif" width="60%" height="20%">       
+<img src="./image/32-1.gif" width="25%" height="20%">       
 
 
 33.PersistentSearch,在点击搜索的时候控件在原有位置显示输入框。          
@@ -169,22 +169,22 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 
 34.discrollview,当上下滚动的时候子元素会呈现不同动画效果的scrollView，网页上称之为：视差滚动.        
 项目地址： https://github.com/flavienlaurent/discrollview           
-<img src="./image/34-1.gif" width="60%" height="20%">         
+<img src="./image/34-1.gif" width="25%" height="20%">         
 
 
 35..sweet-alert-dialog,一个带动画效果的自定义对话框样式.            
 项目地址：https://github.com/pedant/sweet-alert-dialog         
-<img src="./image/35-1.gif" width="60%" height="20%">     
+<img src="./image/35-1.gif" width="25%" height="20%">     
 
 
 36.android-floating-action-button,Material Desig风格的浮动操作按钮.            
 项目地址：https://github.com/futuresimple/android-floating-action-button      
-<img src="./image/36-1.gif" width="60%" height="20%">       
+<img src="./image/36-1.gif" width="25%" height="20%">       
 
 
 37.android-collapse-calendar-view,可以在月视图与周视图之间切换的calendar控件             
 项目地址：https://github.com/blazsolar/android-collapse-calendar-view          
-<img src="./image/37-1.gif" width="60%" height="20%">       
+<img src="./image/37-1.gif" width="25%" height="20%">       
 
 
 38.NumberProgressBar,个简约性感的数字进度条            
@@ -194,97 +194,97 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 
 39.CircularProgressView,CircularProgressView 是通过自定义view的方式实现的Material风格的加载提示控件，兼容任何版本。        
 项目地址：https://github.com/rahatarmanahmed/CircularProgressView          
-<img src="./image/39-1.gif" width="60%" height="20%">           
+<img src="./image/39-1.gif" width="25%" height="20%">           
 
 
 40.一个简单的Android标签控件.https://github.com/H07000223/FlycoLabelView             
-<img src="./image/40-1.png" width="60%" height="20%">        
+<img src="./image/40-1.png" width="25%" height="20%">        
 
 
 41.A simple way to "badge" any given Android view at runtime without having to cater for it in layout.           
 项目地址:https://github.com/jgilfelt/android-viewbadger             
-<img src="./image/41-1.png" width="60%" height="20%">            
+<img src="./image/41-1.png" width="25%" height="20%">            
 
 
 42.Interesting android title bar with immersive status bar and scroll animation like tumblr app (color of icon and text on title bar gradually change to end color).           
 项目地址:https://github.com/markzhai/InterestingTitleBar              
-<img src="./image/42-1.gif" width="60%" height="20%">           
+<img src="./image/42-1.gif" width="25%" height="20%">           
 
 
 43.安卓选择器类库，包括日期时间选择器、单项选择器、地址选择器、颜色选择器、文件目录选择器、数字选择器、星座选择器等。Picker for android, include date&time/option/color/file&directory/number.             
 项目地址:https://github.com/gzu-liyujiang/AndroidPicker            
-<img src="./image/43-1.gif" width="30%" height="20%">   
-<img src="./image/43-2.gif" width="30%" height="20%">
-<img src="./image/43-3.gif" width="30%" height="20%">   
-<img src="./image/43-4.gif" width="30%" height="20%">
-<img src="./image/43-5.gif" width="30%" height="20%">
+<img src="./image/43-1.gif" width="25%" height="20%">   
+<img src="./image/43-2.gif" width="25%" height="20%">
+<img src="./image/43-3.gif" width="25%" height="20%">   
+<img src="./image/43-4.gif" width="25%" height="20%">
+<img src="./image/43-5.gif" width="25%" height="20%">
 
 
 44.一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等.           
 项目地址:https://github.com/dongjunkun/DropDownMenu               
-<img src="./image/44-1.gif" width="60%" height="20%">               
+<img src="./image/44-1.gif" width="25%" height="20%">               
 
 
 45.DropDownMenu for Android,Filter the list based on multiple condition. http://fangjie.info             
 项目地址:https://github.com/JayFang1993/DropDownMenu            
-<img src="./image/45-1.gif" width="60%" height="20%">            
+<img src="./image/45-1.gif" width="25%" height="20%">            
 
 
 46.模仿大众点评的筛选框.             
 项目地址:https://github.com/crazyhl/PopupButton               
-<img src="./image/46-1.gif" width="60%" height="20%">              
+<img src="./image/46-1.gif" width="25%" height="20%">              
 
 
 47.SearchView:Yet another floating search view implementation, also known as persistent search.
 项目地址:https://github.com/renaudcerrato/FloatingSearchView             
-<img src="./image/47-1.gif" width="60%" height="20%">           
+<img src="./image/47-1.gif" width="25%" height="20%">           
 
 
 48.Android Tooltip.Create Toast like tooltips, physical targets can be specified, or even points on screen. Many additional features and customizations. Just look at the samples Activities.                     
 项目地址:https://github.com/lyxwll/android-target-tooltip                 
-<img src="./image/48-1.png" width="60%" height="20%">                      
+<img src="./image/48-1.png" width="25%" height="20%">                      
 
 
 49.SlideSwitch is A widget likes switch, which works with ViewPager and two fragments. It is developed based on PagerSlidingTabStrip and supports gradient on text color.                               
 项目地址:https://github.com/small-dream/SlideSwitch                           
-<img src="./image/49-1.gif" width="60%" height="20%"> 
+<img src="./image/49-1.gif" width="25%" height="20%"> 
      
      
 50.ToolbatIndicator:模仿Twitter iOS 客户端顶部栏的指示器.                                          
 项目地址:https://github.com/nekocode/ToolbarIndicator                    
-<img src="./image/50-1.gif" width="60%" height="20%">                  
+<img src="./image/50-1.gif" width="25%" height="20%">                  
 
 
 51.CalendarPager:This is one horizontal calendar with viewPager.recyclerview横向滑动的日历.           
 项目地址:https://github.com/lyxwll/CalendarPager                                   
-<img src="./image/51-1.gif" width="25%" height="20%">   
+<img src="./image/51-1.gif" width="25%" height="20%">
 <img src="./image/51-2.gif" width="25%" height="20%">                    
 
 
 52.Android-PickerView:仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果.                        
 项目地址:https://github.com/lyxwll/Android-PickerView                             
-<img src="./image/52-1.gif" width="25%" height="20%">   
+<img src="./image/52-1.gif" width="25%" height="20%">
 <img src="./image/52-2.gif" width="25%" height="20%">   
 
 
 53.一个自定义标签view，并具有可拖拽功能.An Android TagView library. You can customize awesome TagView by using this library.  项目地址:https://github.com/whilu/AndroidTagView      
-<img src="./image/53-1.gif" width="25%" height="20%">  
+<img src="./image/53-1.gif" width="25%" height="20%">
 <img src="./image/53-2.png" width="25%" height="20%">   
 
 
 54.仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”.                  
 项目地址:https://github.com/Qiaoidea/QQTipsView                                             
-<img src="./image/54-1.gif" width="60%" height="20%">   
+<img src="./image/54-1.gif" width="25%" height="20%">   
 
 
 55.带动画的CheckBox.The custom CheckBox with animation for Android.                    
 项目地址:https://github.com/andyxialm/SmoothCheckBox                           
-<img src="./image/55-1.gif" width="60%" height="20%">           
+<img src="./image/55-1.gif" width="25%" height="20%">           
 
 
 56.可折叠/展开布局与平滑的动画.             
 项目地址:https://github.com/ubdc/CollapseLayout                  
-<img src="./image/56-1.gif" width="60%" height="20%">           
+<img src="./image/56-1.gif" width="25%" height="20%">           
 
 
 57.差效果引导页Simple library that helps developers to create awesome sliding android app tutorial.           
@@ -294,12 +294,12 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 
 58.VerticalBannerView是一个android平台下的自定义控件,通常用来展示广告,类似淘宝头条。     
 项目地址:https://github.com/Rowandjj/VerticalBannerView     
-<img src="./image/58-1.gif" width="60%" height="20%">        
+<img src="./image/58-1.gif" width="25%" height="20%">        
 
 
 59.图片裁剪image cropping layout      
 项目地址：https://github.com/yulu/crop-image-layout       
-<img src="./image/59-1.gif" width="60%" height="20%">          
+<img src="./image/59-1.gif" width="25%" height="20%">          
 
 
 60.DialogPlus:Advanced dialog solution for android        
