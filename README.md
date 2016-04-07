@@ -4,8 +4,8 @@
 
 -1.Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。           
 项目地址:https://github.com/lyxwll/AndroidAutoLayout            
-<img src="./image/-1-1.jpg" width="40%" height="20%">
-<img src="./image/-1-2.jpg" width="40%" height="20%">
+<img src="./image/-1-1.png" width="40%" height="20%">
+<img src="./image/-1-2.png" width="40%" height="20%">
 
 0.一个很酷的检测UI的工具，包括View的层级、边界、事件等，总之一副很屌的样子。
 https://github.com/xfumihiro/ViewInspector                
@@ -19,12 +19,12 @@ https://github.com/cyrilmottier/GreenDroid
 
 2.Aphid FlipView是一个能够实现Flipboard翻页效果的UI组件。
 https://github.com/openaphid/android-flip
-<img src="./image/2-1.jpg" width="60%" height="20%">
+<img src="./image/2-1.jpg" width="25%" height="20%">
 
 
 3.一个灵感来自Designer News, Dribbble & Product Hunt的material design效果.
 https://github.com/nickbutcher/plaid
-<img src="./image/3-1.gif" width="60%" height="20%">
+<img src="./image/3-1.gif" width="250%" height="20%">
 
 
 4.MaterialDesignLibrary:https://github.com/navasmdc/MaterialDesignLibrary
