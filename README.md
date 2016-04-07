@@ -213,11 +213,11 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 
 43.安卓选择器类库，包括日期时间选择器、单项选择器、地址选择器、颜色选择器、文件目录选择器、数字选择器、星座选择器等。Picker for android, include date&time/option/color/file&directory/number.             
 项目地址:https://github.com/gzu-liyujiang/AndroidPicker            
-<img src="./image/43-1.gif" width="25%" height="20%">   
-<img src="./image/43-2.gif" width="25%" height="20%">
-<img src="./image/43-3.gif" width="25%" height="20%">   
-<img src="./image/43-4.gif" width="25%" height="20%">
-<img src="./image/43-5.gif" width="25%" height="20%">
+<img src="./image/43-1.gif" width="30%" height="20%">
+<img src="./image/43-2.gif" width="30%" height="20%">
+<img src="./image/43-3.gif" width="30%" height="20%">
+<img src="./image/43-4.gif" width="30%" height="20%">
+<img src="./image/43-5.gif" width="30%" height="20%">
 
 
 44.一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等.           
