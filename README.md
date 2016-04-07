@@ -4,12 +4,12 @@
 
 -1.Android屏幕适配方案，直接填写设计图上的像素尺寸即可完成适配，最大限度解决适配问题。           
 项目地址:https://github.com/lyxwll/AndroidAutoLayout            
-<img src="./image/-1-1.png" width="40%" height="20%">
-<img src="./image/-1-2.png" width="40%" height="20%">
+<img src="./image/-1-1.png" width="40%" height="30%">
+<img src="./image/-1-2.png" width="40%" height="30%">
 
 0.一个很酷的检测UI的工具，包括View的层级、边界、事件等，总之一副很屌的样子。
 https://github.com/xfumihiro/ViewInspector                
-<img src="./image/0-1.gif" width="60%" height="20%">
+<img src="./image/0-1.gif" width="25%" height="20%">
 
 
 1.GreenDroid最初是由Cyril Mottier发起，是一个Android的UI开发类库，能够让UI开发更加简便，并且在应用中始终保持一致.
@@ -24,7 +24,7 @@ https://github.com/openaphid/android-flip
 
 3.一个灵感来自Designer News, Dribbble & Product Hunt的material design效果.
 https://github.com/nickbutcher/plaid
-<img src="./image/3-1.gif" width="250%" height="20%">
+<img src="./image/3-1.gif" width="25%" height="20%">
 
 
 4.MaterialDesignLibrary:https://github.com/navasmdc/MaterialDesignLibrary
