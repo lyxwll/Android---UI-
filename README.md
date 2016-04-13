@@ -66,8 +66,9 @@ https://github.com/daimajia/AndroidViewAnimations
 <img src="./image/11-1.gif" width="25%" height="20%">
 
 
-12.CustomLoading For Android;https://github.com/stormzhang/CustomLoading           
-<img src="./image/12-1.jpg" width="25%" height="20%">
+**12.小红书视差动画引导界面**
+https://github.com/w446108264/XhsWelcomeAnim     
+<img src="./image/12-1.gif" width="25%" height="20%">
 
 13.Demo of the onboarding animations of Yahoo NewsApp,雅虎新闻App引导页动画.
 https://github.com/rahulrj/YahooNewsOnboarding             
