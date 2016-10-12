@@ -338,7 +338,10 @@ https://github.com/JeasonWong/FlipShare
 https://github.com/cctanfujun/ProgressRoundButton              
 
 
-**67.**
+**67.高仿最新版微信6.2手势滑动返回**         
+https://github.com/XBeats/and_swipeback            
+
+**68.**
 
 
 
