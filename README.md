@@ -341,7 +341,10 @@ https://github.com/cctanfujun/ProgressRoundButton
 **67.高仿最新版微信6.2手势滑动返回**         
 https://github.com/XBeats/and_swipeback            
 
-**68.**
+**68.Toolbar 组件展示 Banner 图片效果**        
+https://github.com/JuL1205/SlideshowToolbar         
+
+**69.**
 
 
 
