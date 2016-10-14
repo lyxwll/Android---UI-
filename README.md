@@ -64,9 +64,7 @@ https://github.com/melvinjlobo/MetaballMenu
 <img src="./image/10-1.gif" width="25%" height="20%">      
 
 
-11.一些简单使用的动画效果.      
-https://github.com/robinxdroid/XDroidAnimation             
-<img src="./image/11-1.gif" width="25%" height="20%">         
+**11.**
 
 ------
 ###滑动引导界面     
@@ -121,7 +119,8 @@ https://github.com/finddreams/SlidingBack
 <img src="./image/20-1.gif" width="25%" height="20%">   
 
 
-21.高级的TextView特效.https://github.com/Rogero0o/MatchView                
+21.高级的TextView特效.         
+https://github.com/Rogero0o/MatchView                 
 <img src="./image/21-1.gif" width="25%" height="20%">       
 
 
@@ -197,10 +196,18 @@ https://github.com/finddreams/SlidingBack
 项目地址：https://github.com/futuresimple/android-floating-action-button      
 <img src="./image/36-1.gif" width="25%" height="20%">       
 
+---------
+##自定义日历视图           
 37.android-collapse-calendar-view,可以在月视图与周视图之间切换的calendar控件             
 项目地址：https://github.com/blazsolar/android-collapse-calendar-view          
 <img src="./image/37-1.gif" width="25%" height="20%">       
 
+51.CalendarPager:This is one horizontal calendar with viewPager.recyclerview横向滑动的日历.           
+项目地址:https://github.com/lyxwll/CalendarPager                                   
+<img src="./image/51-1.gif" width="25%" height="20%">
+<img src="./image/51-2.gif" width="25%" height="20%">  
+
+----------
 
 **38.** 
 
@@ -221,7 +228,8 @@ https://github.com/finddreams/SlidingBack
 项目地址:https://github.com/markzhai/InterestingTitleBar              
 <img src="./image/42-1.gif" width="25%" height="20%">           
 
-
+------
+##下拉列表选择      
 43.安卓选择器类库，包括日期时间选择器、单项选择器、地址选择器、颜色选择器、文件目录选择器、数字选择器、星座选择器等。Picker for android, include date&time/option/color/file&directory/number.             
 项目地址:https://github.com/gzu-liyujiang/AndroidPicker            
 <img src="./image/43-1.gif" width="30%" height="20%">
@@ -243,8 +251,14 @@ https://github.com/finddreams/SlidingBack
 
 46.模仿大众点评的筛选框.             
 项目地址:https://github.com/crazyhl/PopupButton               
-<img src="./image/46-1.gif" width="25%" height="20%">              
+<img src="./image/46-1.gif" width="25%" height="20%">            
 
+52.Android-PickerView:仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果.                        
+项目地址:https://github.com/lyxwll/Android-PickerView                             
+<img src="./image/52-1.gif" width="25%" height="20%">
+<img src="./image/52-2.gif" width="25%" height="20%">   
+
+----------
 
 47.SearchView:Yet another floating search view implementation, also known as persistent search.
 项目地址:https://github.com/renaudcerrato/FloatingSearchView             
@@ -263,20 +277,7 @@ https://github.com/finddreams/SlidingBack
      
 50.ToolbatIndicator:模仿Twitter iOS 客户端顶部栏的指示器.                                          
 项目地址:https://github.com/nekocode/ToolbarIndicator                    
-<img src="./image/50-1.gif" width="25%" height="20%">                  
-
-
-51.CalendarPager:This is one horizontal calendar with viewPager.recyclerview横向滑动的日历.           
-项目地址:https://github.com/lyxwll/CalendarPager                                   
-<img src="./image/51-1.gif" width="25%" height="20%">
-<img src="./image/51-2.gif" width="25%" height="20%">                    
-
-
-52.Android-PickerView:仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果.                        
-项目地址:https://github.com/lyxwll/Android-PickerView                             
-<img src="./image/52-1.gif" width="25%" height="20%">
-<img src="./image/52-2.gif" width="25%" height="20%">   
-
+<img src="./image/50-1.gif" width="25%" height="20%">                                    
 
 53.一个自定义标签view，并具有可拖拽功能.An Android TagView library. You can customize awesome TagView by using this library.  项目地址:https://github.com/whilu/AndroidTagView      
 <img src="./image/53-1.gif" width="25%" height="20%">
