@@ -12,98 +12,105 @@ https://github.com/xfumihiro/ViewInspector
 <img src="./image/0-1.gif" width="25%" height="20%">
 
 
-1.GreenDroid最初是由Cyril Mottier发起，是一个Android的UI开发类库，能够让UI开发更加简便，并且在应用中始终保持一致.
-https://github.com/cyrilmottier/GreenDroid         
+1.GreenDroid最初是由Cyril Mottier发起，是一个Android的UI开发类库，能够让UI开发更加简便，并且在应用中始终保持一致.         
+https://github.com/cyrilmottier/GreenDroid          
 ![image](http://cms.csdnimg.cn/article/201305/03/51834d911e3dc.jpg)
 
 
-2.Aphid FlipView是一个能够实现Flipboard翻页效果的UI组件。
-https://github.com/openaphid/android-flip
+2.Aphid FlipView是一个能够实现Flipboard翻页效果的UI组件。              
+https://github.com/openaphid/android-flip        
 <img src="./image/2-1.jpg" width="25%" height="20%">
 
 
-3.一个灵感来自Designer News, Dribbble & Product Hunt的material design效果.
-https://github.com/nickbutcher/plaid
-<img src="./image/3-1.gif" width="25%" height="20%">
+3.一个灵感来自Designer News, Dribbble & Product Hunt的material design效果.               
+https://github.com/nickbutcher/plaid                
+<img src="./image/3-1.gif" width="25%" height="20%">            
 
 
-4.MaterialDesignLibrary:https://github.com/navasmdc/MaterialDesignLibrary
-在众多新晋库中，MaterialDesignLibrary可以说是颇受开发者瞩目的一个控件效果库，能够让开发者在Android 2.2系统上使用Android 5.0才支持的控件效果，比如扁平、矩形、浮动按钮，复选框以及各式各样的进度指示器等。MaterialDesignLibrary还拥有SnackBar、Dialog、Color selector组件，可非常便捷地对应用界面进行设置。                     
-<img src="./image/4-1.jpg" width="60%" height="30%">
+4.MaterialDesignLibrary:https://github.com/navasmdc/MaterialDesignLibrary               
+在众多新晋库中，MaterialDesignLibrary可以说是颇受开发者瞩目的一个控件效果库，能够让开发者在Android 2.2系统上使用Android 5.0才支持的控件效果，比如扁平、矩形、浮动按钮，复选框以及各式各样的进度指示器等。MaterialDesignLibrary还拥有SnackBar、Dialog、Color selector组件，可非常便捷地对应用界面进行设置。                      
+<img src="./image/4-1.jpg" width="60%" height="30%">          
 
 
-5.MaterialEditText:https://github.com/rengwuxian/MaterialEditText
-随着Material Design的到来，AppCompat v21也为开发者提供了Material Design的控件外观支持，其中就包括EditText，但却并不好用，没有设置颜色的API，也没有任何Google Material Design Spec中提到的特性。于是，来自国内的开发者“扔物线”开发了MaterialEditText库，直接继承EditText，无需修改Java文件即能实现自定义控件颜色。                              
-<img src="./image/5-1.png" width="60%" height="30%">
+5.MaterialEditText:https://github.com/rengwuxian/MaterialEditText             
+随着Material Design的到来，AppCompat v21也为开发者提供了Material Design的控件外观支持，其中就包括EditText，但却并不好用，没有设置颜色的API，也没有任何Google Material Design Spec中提到的特性。于是，来自国内的开发者“扔物线”开发了MaterialEditText库，直接继承EditText，无需修改Java文件即能实现自定义控件颜色。                               
+<img src="./image/5-1.png" width="60%" height="30%">           
 
 
-6.Android-LollipopShowcase是由来自奥地利的移动、后端及Web开发者Mike Penz所开发的演示应用，集中演示了新Material Design中所有的UI效果，以及AndroidLollipop中其他非常酷炫的特性元素，比如Toolbar、RecyclerView、ActionBarDrawerToggle、Floating Action Button（FAB）、Android Compat Theme等。
-https://github.com/mikepenz/LollipopShowcase                
-<img src="./image/6-1.jpg" width="60%" height="30%">
+6.Android-LollipopShowcase是由来自奥地利的移动、后端及Web开发者Mike Penz所开发的演示应用，集中演示了新Material Design中所有的UI效果，以及AndroidLollipop中其他非常酷炫的特性元素，比如Toolbar、RecyclerView、ActionBarDrawerToggle、Floating Action Button（FAB）、Android Compat Theme等。           
+https://github.com/mikepenz/LollipopShowcase                 
+<img src="./image/6-1.jpg" width="60%" height="30%">        
 
 
-7.Android-ObservableScrollView是一款用于在滚动视图中观测滚动事件的Android库。它能够轻而易举地与Android 5.0 Lollipop引进的工具栏（Toolbar）进行交互，还可以帮助开发者实现拥有Material Design应用视觉体验的界面外观，支持ListView、ScrollView、WebView、RecyclerView、GridView组件。
-https://github.com/ksoichiro/Android-ObservableScrollView              
+7.Android-ObservableScrollView是一款用于在滚动视图中观测滚动事件的Android库。它能够轻而易举地与Android 5.0 Lollipop引进的工具栏（Toolbar）进行交互，还可以帮助开发者实现拥有Material Design应用视觉体验的界面外观，支持ListView、ScrollView、WebView、RecyclerView、GridView组件。     
+https://github.com/ksoichiro/Android-ObservableScrollView                      
 <img src="./image/7-1.gif" width="30%" height="30%">
 <img src="./image/7-2.gif" width="30%" height="30%">
 <img src="./image/7-3.gif" width="30%" height="30%">
 
 
-8.AndroidImageSlider:一个漂亮的Slider。https://github.com/daimajia/AndroidImageSlider     
+8.AndroidImageSlider:一个漂亮的Slider。         
+https://github.com/daimajia/AndroidImageSlider            
 <img src="./image/8-1.gif" width="25%" height="20%">
 
 
-9.AndroidViewAnimations:视图动画效果
-https://github.com/daimajia/AndroidViewAnimations                
+9.AndroidViewAnimations:视图动画效果           
+https://github.com/daimajia/AndroidViewAnimations                   
 <img src="./image/9-1.gif" width="25%" height="20%">
 
 
-10.一款粘性菜单弹跳动画效果,灵感来自Material design.https://github.com/melvinjlobo/MetaballMenu           
-<img src="./image/10-1.gif" width="25%" height="20%">
+10.一款粘性菜单弹跳动画效果,灵感来自Material design.        
+https://github.com/melvinjlobo/MetaballMenu            
+<img src="./image/10-1.gif" width="25%" height="20%">      
 
 
-11.一些简单使用的动画效果.https://github.com/robinxdroid/XDroidAnimation          
-<img src="./image/11-1.gif" width="25%" height="20%">
+11.一些简单使用的动画效果.      
+https://github.com/robinxdroid/XDroidAnimation             
+<img src="./image/11-1.gif" width="25%" height="20%">         
 
 
-**12.小红书视差动画引导界面**
-https://github.com/w446108264/XhsWelcomeAnim     
-<img src="./image/12-1.gif" width="25%" height="20%">
+**12.小红书视差动画引导界面**           
+https://github.com/w446108264/XhsWelcomeAnim       
+<img src="./image/12-1.gif" width="25%" height="20%">   
 
-13.Demo of the onboarding animations of Yahoo NewsApp,雅虎新闻App引导页动画.
-https://github.com/rahulrj/YahooNewsOnboarding             
-<img src="./image/13-1.gif" width="25%" height="20%">
+**13.Demo of the onboarding animations of Yahoo NewsApp,雅虎新闻App引导页动画.**
+https://github.com/rahulrj/YahooNewsOnboarding               
+<img src="./image/13-1.gif" width="25%" height="20%">        
 
 
-14.一个用于app指向性功能高亮的库.https://github.com/hongyangAndroid/Highlight      
-<img src="./image/14-1.gif" width="25%" height="20%">
+14.一个用于app指向性功能高亮的库.      
+https://github.com/hongyangAndroid/Highlight           
+<img src="./image/14-1.gif" width="25%" height="20%">   
 
-15.一款标尺状选择的WheelView,可以选择日期,金钱等其他短的长度值.https://github.com/lantouzi/WheelView-Android      
+15.一款标尺状选择的WheelView,可以选择日期,金钱等其他短的长度值.     
+https://github.com/lantouzi/WheelView-Android        
 <img src="./image/15-1.png" width="25%" height="20%">
 
-16.一个Android专用的LogCat工具，主要功能为打印行号、函数调用、Json解析、点击跳转等。      
-使用地址:http://blog.csdn.net/zhaokaiqiang1992/article/details/49837627     
-项目地址:https://github.com/ZhaoKaiQiang/KLog                 
+16.一个Android专用的LogCat工具，主要功能为打印行号、函数调用、Json解析、点击跳转等。         
+使用地址:http://blog.csdn.net/zhaokaiqiang1992/article/details/49837627        
+项目地址:https://github.com/ZhaoKaiQiang/KLog                  
 <img src="./image/16-1.gif" width="70%" height="30%">
 
 
-17.选择省份或者是城市模块，可以直接拿来用.https://github.com/ZhaoKaiQiang/SelectCityModule           
+17.选择省份或者是城市模块，可以直接拿来用.       
+https://github.com/ZhaoKaiQiang/SelectCityModule            
 ![image](https://camo.githubusercontent.com/42de7e5e764d83afdc116fa3ba1ef423d2aefe4e/687474703a2f2f6931312e74696574756b752e636f6d2f333261623439616333383262376466642e676966)
 
-
-18.仿iOS的AlertViewController 几乎完美还原iOS的AlertViewController,同时支持Alert和ActionSheet模式，每一个细节都是精雕细琢，并把api封装成懒到极致模式，一行代码就可以进行弹窗.       
-https://github.com/saiwu-bigkoo/Android-AlertView              
-<img src="./image/18-1.gif" width="25%" height="20%">
-
-
-19.仿手机QQ聊天列表滑动菜单删除和手势滑动返回的两种方式.https://github.com/finddreams/SlidingBack                   
-<img src="./image/19-1.gif" width="25%" height="20%">
-
-20.Android消息数显示控件.项目地址:https://github.com/bingoogolapple/BGABadgeView-Android                              
-<img src="./image/20-1.gif" width="25%" height="20%">
+18.仿iOS的AlertViewController 几乎完美还原iOS的AlertViewController,同时支持Alert和ActionSheet模式，每一个细节都是精雕细琢，并把api封装成懒到极致模式，一行代码就可以进行弹窗.          
+https://github.com/saiwu-bigkoo/Android-AlertView                 
+<img src="./image/18-1.gif" width="25%" height="20%">    
 
 
-21.高级的TextView特效.https://github.com/Rogero0o/MatchView             
+19.仿手机QQ聊天列表滑动菜单删除和手势滑动返回的两种方式.       
+https://github.com/finddreams/SlidingBack                     
+<img src="./image/19-1.gif" width="25%" height="20%">   
+
+20.Android消息数显示控件.       
+项目地址:https://github.com/bingoogolapple/BGABadgeView-Android                                
+<img src="./image/20-1.gif" width="25%" height="20%">   
+
+
+21.高级的TextView特效.https://github.com/Rogero0o/MatchView                
 <img src="./image/21-1.gif" width="25%" height="20%">       
 
 
