@@ -68,6 +68,7 @@ https://github.com/melvinjlobo/MetaballMenu
 https://github.com/robinxdroid/XDroidAnimation             
 <img src="./image/11-1.gif" width="25%" height="20%">         
 
+###滑动引导界面     
 
 **12.小红书视差动画引导界面**           
 https://github.com/w446108264/XhsWelcomeAnim       
@@ -77,6 +78,8 @@ https://github.com/w446108264/XhsWelcomeAnim
 https://github.com/rahulrj/YahooNewsOnboarding               
 <img src="./image/13-1.gif" width="25%" height="20%">        
 
+
+-----
 
 14.一个用于app指向性功能高亮的库.      
 https://github.com/hongyangAndroid/Highlight           
