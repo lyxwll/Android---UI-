@@ -344,8 +344,10 @@ https://github.com/XBeats/and_swipeback
 **68.Toolbar 组件展示 Banner 图片效果**        
 https://github.com/JuL1205/SlideshowToolbar         
 
-**69.**
+**69.viewpager with parallax pages, together with vertical sliding (or click) and activity transition**                    
+https://github.com/xmuSistone/android-page-transition        
 
+**70.**
 
 
 
