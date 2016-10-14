@@ -68,6 +68,7 @@ https://github.com/melvinjlobo/MetaballMenu
 https://github.com/robinxdroid/XDroidAnimation             
 <img src="./image/11-1.gif" width="25%" height="20%">         
 
+------
 ###滑动引导界面     
 
 **12.小红书视差动画引导界面**           
@@ -78,6 +79,13 @@ https://github.com/w446108264/XhsWelcomeAnim
 https://github.com/rahulrj/YahooNewsOnboarding               
 <img src="./image/13-1.gif" width="25%" height="20%">        
 
+**13.1.SpringIndicator,使用bezier实现粘连效果的页面指示**     
+项目地址：https://github.com/chenupt/SpringIndicator            
+<img src="./image/31-1.gif" width="25%" height="20%">      
+
+**13.2差效果引导页Simple library that helps developers to create awesome sliding android app tutorial.**    
+项目地址:https://github.com/Cleveroad/slidingtutorial-android               
+<img src="./image/57-1.gif" width="60%" height="20%">     
 
 -----
 
@@ -95,8 +103,8 @@ https://github.com/lantouzi/WheelView-Android
 <img src="./image/16-1.gif" width="70%" height="30%">
 
 
-17.选择省份或者是城市模块，可以直接拿来用.       
-https://github.com/ZhaoKaiQiang/SelectCityModule            
+17.选择省份或者是城市模块，可以直接拿来用.         
+https://github.com/ZhaoKaiQiang/SelectCityModule             
 ![image](https://camo.githubusercontent.com/42de7e5e764d83afdc116fa3ba1ef423d2aefe4e/687474703a2f2f6931312e74696574756b752e636f6d2f333261623439616333383262376466642e676966)
 
 18.仿iOS的AlertViewController 几乎完美还原iOS的AlertViewController,同时支持Alert和ActionSheet模式，每一个细节都是精雕细琢，并把api封装成懒到极致模式，一行代码就可以进行弹窗.          
@@ -163,9 +171,7 @@ https://github.com/finddreams/SlidingBack
 <img src="./image/30-1.gif" width="25%" height="20%">          
 
 
-31.SpringIndicator,使用bezier实现粘连效果的页面指示              
-项目地址：https://github.com/chenupt/SpringIndicator          
-<img src="./image/31-1.gif" width="25%" height="20%">
+31.
 
 
 32.FoldableLayout,折叠的信纸被打开一样的动画效果         
@@ -196,14 +202,10 @@ https://github.com/finddreams/SlidingBack
 <img src="./image/37-1.gif" width="25%" height="20%">       
 
 
-38.NumberProgressBar,个简约性感的数字进度条            
-项目地址：https://github.com/daimajia/NumberProgressBar           
-<img src="./image/38-1.gif" width="60%" height="20%">          
+**38.** 
 
 
-39.CircularProgressView,CircularProgressView 是通过自定义view的方式实现的Material风格的加载提示控件，兼容任何版本。        
-项目地址：https://github.com/rahatarmanahmed/CircularProgressView          
-<img src="./image/39-1.gif" width="25%" height="20%">           
+**39.**
 
 
 40.一个简单的Android标签控件.https://github.com/H07000223/FlycoLabelView             
@@ -296,9 +298,7 @@ https://github.com/finddreams/SlidingBack
 <img src="./image/56-1.gif" width="25%" height="20%">           
 
 
-57.差效果引导页Simple library that helps developers to create awesome sliding android app tutorial.           
-项目地址:https://github.com/Cleveroad/slidingtutorial-android             
-<img src="./image/57-1.gif" width="60%" height="20%">   
+**57.**
 
 
 58.VerticalBannerView是一个android平台下的自定义控件,通常用来展示广告,类似淘宝头条。     
