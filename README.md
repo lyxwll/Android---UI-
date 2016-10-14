@@ -177,11 +177,9 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 项目地址：https://github.com/pedant/sweet-alert-dialog         
 <img src="./image/35-1.gif" width="25%" height="20%">     
 
-
 36.android-floating-action-button,Material Desig风格的浮动操作按钮.            
 项目地址：https://github.com/futuresimple/android-floating-action-button      
 <img src="./image/36-1.gif" width="25%" height="20%">       
-
 
 37.android-collapse-calendar-view,可以在月视图与周视图之间切换的calendar控件             
 项目地址：https://github.com/blazsolar/android-collapse-calendar-view          
@@ -298,9 +296,7 @@ https://github.com/saiwu-bigkoo/Android-AlertView
 <img src="./image/58-1.gif" width="25%" height="20%">        
 
 
-59.图片裁剪image cropping layout      
-项目地址：https://github.com/yulu/crop-image-layout       
-<img src="./image/59-1.gif" width="25%" height="20%">          
+**59.**
 
 
 60.DialogPlus:Advanced dialog solution for android        
@@ -321,7 +317,7 @@ https://github.com/xmuSistone/android-snake-menu
 <img src="./image/62-3.gif" width="25%" height="20%">        
 
 
-**63.Youtube Gaming inspired Tabs**
+**63.Youtube Gaming inspired Tabs**                
 https://github.com/saiff35/LivingTabs       
 <img src="" width="30%" height="20%">
 
