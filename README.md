@@ -214,7 +214,13 @@ https://github.com/Rogero0o/MatchView
 51.CalendarPager:This is one horizontal calendar with viewPager.recyclerview横向滑动的日历.           
 项目地址:https://github.com/lyxwll/CalendarPager                                   
 <img src="./image/51-1.gif" width="25%" height="20%">
-<img src="./image/51-2.gif" width="25%" height="20%">  
+<img src="./image/51-2.gif" width="25%" height="20%">    
+
+**37.2.An android library which provides a compact calendar view much like the one used in google calenders.**      
+https://github.com/SundeepK/CompactCalendarView       
+
+**37.1.显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库。**       
+https://github.com/myjoybar/android-calendar-view  
 
 ----------
 
