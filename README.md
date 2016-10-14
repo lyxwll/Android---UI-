@@ -83,7 +83,16 @@ https://github.com/rahulrj/YahooNewsOnboarding
 
 **13.2差效果引导页Simple library that helps developers to create awesome sliding android app tutorial.**    
 项目地址:https://github.com/Cleveroad/slidingtutorial-android               
-<img src="./image/57-1.gif" width="60%" height="20%">     
+<img src="./image/57-1.gif" width="60%" height="20%">   
+
+**13.3自定义欢迎界面**         
+https://github.com/stephentuso/welcome-android      
+
+**13.4.带有色彩渐变的新功能引导页**        
+https://github.com/codemybrainsout/ahoy-onboarding        
+
+**13.5.Inspired by Heinrich Reimer Material Intro and developed with love from scratch**      
+https://github.com/TangoAgency/material-intro-screen
 
 -----
 
