@@ -322,8 +322,8 @@ https://github.com/myjoybar/android-calendar-view
 <img src="./image/58-1.gif" width="25%" height="20%">        
 
 
-**59.**
-
+**59.Google 风格的 Page Indicator 效果。**              
+https://github.com/romandanylyk/PageIndicatorView
 
 60.DialogPlus:Advanced dialog solution for android        
 项目地址:https://github.com/orhanobut/dialogplus       
