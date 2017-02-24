@@ -127,60 +127,49 @@ https://github.com/finddreams/SlidingBack
 项目地址:https://github.com/bingoogolapple/BGABadgeView-Android                                
 <img src="./image/20-1.gif" width="25%" height="20%">   
 
-
 21.高级的TextView特效.         
 https://github.com/Rogero0o/MatchView                 
 <img src="./image/21-1.gif" width="25%" height="20%">       
-
 
 22.An android view,which can layer on any gravity for swiping.          
 项目地址:https://github.com/aicaprio/CurtainView            
 <img src="./image/22-1.gif" width="30%" height="20%">
 <img src="./image/22-2.gif" width="30%" height="20%">
 
-
 23.Side-Menu.Android,分类侧滑菜单，Yalantis 出品。               
 项目地址：https://github.com/Yalantis/Side-Menu.Android              
 <img src="./image/23-1.gif" width="60%" height="20%">        
-
 
 24.Context-Menu.Android可以方便快速集成漂亮带有动画效果的上下文菜单，Yalantis出品。         
 项目地址：https://github.com/Yalantis/Context-Menu.Android           
 <img src="./image/24-1.gif" width="60%" height="20%">         
 
-
 25.Titanic,可以显示水位上升下降的TextView             
 项目地址：https://github.com/RomainPiel/Titanic              
 <img src="./image/25-1.gif" width="60%" height="20%">     
-
 
 26.Android Typeface Helper,可以帮你轻松实现自定义字体的库              
 项目地址：https://github.com/norbsoft/android-typeface-helper         
 <img src="./image/26-1.png" width="60%" height="20%">
 
-
 27.ToggleButton,状态切换的 Button，类似 iOS，用 View 实现            
 项目地址：https://github.com/zcweng/ToggleButton          
 <img src="./image/27-1.gif" width="30%" height="20%">   
-
 
 28.实现滑动ViewPager渐变背景色             
 项目地址：https://github.com/TaurusXi/GuideBackgroundColorAnimation         
 <img src="./image/28-1.gif" width="25%" height="20%">           
 
-
 29.Euclid,用户简历界面，Yalantis 出品。             
 项目地址：https://github.com/Yalantis/Euclid           
 <img src="./image/29-1.gif" width="60%" height="20%">          
-
 
 30.InstaMaterial,Instagram的一组Material 风格的概念设计.            
 项目地址：https://github.com/frogermcs/InstaMaterial        
 <img src="./image/30-1.gif" width="25%" height="20%">          
 
-
-31.
-
+31.让你的 App 不再那么无聊和单调，气泡风格的过渡动画效果       
+https://github.com/Cleveroad/BubbleAnimationLayout
 
 32.FoldableLayout,折叠的信纸被打开一样的动画效果         
 项目地址：https://github.com/alexvasilkov/FoldableLayout          
@@ -233,11 +222,9 @@ https://github.com/myjoybar/android-calendar-view
 40.一个简单的Android标签控件.https://github.com/H07000223/FlycoLabelView             
 <img src="./image/40-1.png" width="25%" height="20%">        
 
-
 41.A simple way to "badge" any given Android view at runtime without having to cater for it in layout.           
 项目地址:https://github.com/jgilfelt/android-viewbadger             
 <img src="./image/41-1.png" width="25%" height="20%">            
-
 
 42.Interesting android title bar with immersive status bar and scroll animation like tumblr app (color of icon and text on title bar gradually change to end color).           
 项目地址:https://github.com/markzhai/InterestingTitleBar              
@@ -253,16 +240,13 @@ https://github.com/myjoybar/android-calendar-view
 <img src="./image/43-4.gif" width="30%" height="20%">
 <img src="./image/43-5.gif" width="30%" height="20%">
 
-
 44.一个实用的多条件筛选菜单，在很多App上都能看到这个效果，如美团，爱奇艺电影票等.           
 项目地址:https://github.com/dongjunkun/DropDownMenu               
 <img src="./image/44-1.gif" width="25%" height="20%">               
 
-
 45.DropDownMenu for Android,Filter the list based on multiple condition. http://fangjie.info             
 项目地址:https://github.com/JayFang1993/DropDownMenu            
 <img src="./image/45-1.gif" width="25%" height="20%">            
-
 
 46.模仿大众点评的筛选框.             
 项目地址:https://github.com/crazyhl/PopupButton               
@@ -279,16 +263,13 @@ https://github.com/myjoybar/android-calendar-view
 项目地址:https://github.com/renaudcerrato/FloatingSearchView             
 <img src="./image/47-1.gif" width="25%" height="20%">           
 
-
 48.Android Tooltip.Create Toast like tooltips, physical targets can be specified, or even points on screen. Many additional features and customizations. Just look at the samples Activities.                     
 项目地址:https://github.com/lyxwll/android-target-tooltip                 
 <img src="./image/48-1.png" width="25%" height="20%">                      
 
-
 49.SlideSwitch is A widget likes switch, which works with ViewPager and two fragments. It is developed based on PagerSlidingTabStrip and supports gradient on text color.                               
 项目地址:https://github.com/small-dream/SlideSwitch                           
 <img src="./image/49-1.gif" width="25%" height="20%"> 
-     
      
 50.ToolbatIndicator:模仿Twitter iOS 客户端顶部栏的指示器.                                          
 项目地址:https://github.com/nekocode/ToolbarIndicator                    
@@ -298,29 +279,23 @@ https://github.com/myjoybar/android-calendar-view
 <img src="./image/53-1.gif" width="25%" height="20%">
 <img src="./image/53-2.png" width="25%" height="20%">   
 
-
 54.仿QQ消息未读拖拽清除，“一键退朝”，“一键清除未读”，“一键下班”.                  
 项目地址:https://github.com/Qiaoidea/QQTipsView                                             
 <img src="./image/54-1.gif" width="25%" height="20%">   
-
 
 55.带动画的CheckBox.The custom CheckBox with animation for Android.                    
 项目地址:https://github.com/andyxialm/SmoothCheckBox                           
 <img src="./image/55-1.gif" width="25%" height="20%">           
 
-
 56.可折叠/展开布局与平滑的动画.             
 项目地址:https://github.com/ubdc/CollapseLayout                  
 <img src="./image/56-1.gif" width="25%" height="20%">           
 
-
 **57.**
-
 
 58.VerticalBannerView是一个android平台下的自定义控件,通常用来展示广告,类似淘宝头条。     
 项目地址:https://github.com/Rowandjj/VerticalBannerView     
 <img src="./image/58-1.gif" width="25%" height="20%">        
-
 
 **59.Google 风格的 Page Indicator 效果。**              
 https://github.com/romandanylyk/PageIndicatorView
@@ -330,11 +305,9 @@ https://github.com/romandanylyk/PageIndicatorView
 <img src="./image/60-1.gif" width="25%" height="20%">
 <img src="./image/60-2.gif" width="25%" height="20%">      
 
-
 61.A simple library to add carousel view in android app.      
 https://github.com/sayyam/carouselview     
 <img src="./image/61-1.gif" width="60%" height="20%">   
-
 
 62.imitate Tumblr's menu, dragging animations look like a snake。可拖拽的菜单    
 https://github.com/xmuSistone/android-snake-menu                         
@@ -342,23 +315,18 @@ https://github.com/xmuSistone/android-snake-menu
 <img src="./image/62-2.gif" width="25%" height="20%">
 <img src="./image/62-3.gif" width="25%" height="20%">        
 
-
 **63.Youtube Gaming inspired Tabs**                
 https://github.com/saiff35/LivingTabs       
 <img src="" width="30%" height="20%">
 
-
 **64.The Demo of Material-Design-login. And maybe you can use the CatchScrollLayout at other place.**     
 https://github.com/Yellow5A5/Material-Design-Login            
-
 
 **65.一个酷炫的分享控件**              
 https://github.com/JeasonWong/FlipShare           
 
-
 **66.渐变的下载按钮A DownloadProgressButton with Animation for Android**              
 https://github.com/cctanfujun/ProgressRoundButton              
-
 
 **67.高仿最新版微信6.2手势滑动返回**         
 https://github.com/XBeats/and_swipeback            
