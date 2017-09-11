@@ -200,15 +200,15 @@ https://github.com/Cleveroad/BubbleAnimationLayout
 项目地址：https://github.com/blazsolar/android-collapse-calendar-view          
 <img src="./image/37-1.gif" width="25%" height="20%">       
 
-51.CalendarPager:This is one horizontal calendar with viewPager.recyclerview横向滑动的日历.           
-项目地址:https://github.com/lyxwll/CalendarPager                                   
+**37.1.CalendarPager:This is one horizontal calendar with viewPager.recyclerview横向滑动的日历.**
+项目地址:https://github.com/lyxwll/CalendarPager                                   
 <img src="./image/51-1.gif" width="25%" height="20%">
 <img src="./image/51-2.gif" width="25%" height="20%">    
 
 **37.2.An android library which provides a compact calendar view much like the one used in google calenders.**      
 https://github.com/SundeepK/CompactCalendarView       
 
-**37.1.显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库。**       
+**37.3.显示阳历，农历，节假日和二十四节气 实现对某月日期的单选或者多选的andorid 日历控件库。**       
 https://github.com/myjoybar/android-calendar-view  
 
 ----------
@@ -252,26 +252,26 @@ https://github.com/myjoybar/android-calendar-view
 项目地址:https://github.com/crazyhl/PopupButton               
 <img src="./image/46-1.gif" width="25%" height="20%">            
 
-52.Android-PickerView:仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果.                        
+47.Android-PickerView:仿iOS的PickerView控件，有时间选择和选项选择并支持一二三级联动效果.                        
 项目地址:https://github.com/lyxwll/Android-PickerView                             
 <img src="./image/52-1.gif" width="25%" height="20%">
 <img src="./image/52-2.gif" width="25%" height="20%">   
 
 ----------
 
-47.SearchView:Yet another floating search view implementation, also known as persistent search.
+48.SearchView:Yet another floating search view implementation, also known as persistent search.
 项目地址:https://github.com/renaudcerrato/FloatingSearchView             
 <img src="./image/47-1.gif" width="25%" height="20%">           
 
-48.Android Tooltip.Create Toast like tooltips, physical targets can be specified, or even points on screen. Many additional features and customizations. Just look at the samples Activities.                     
+49.Android Tooltip.Create Toast like tooltips, physical targets can be specified, or even points on screen. Many additional features and customizations. Just look at the samples Activities.                     
 项目地址:https://github.com/lyxwll/android-target-tooltip                 
 <img src="./image/48-1.png" width="25%" height="20%">                      
 
-49.SlideSwitch is A widget likes switch, which works with ViewPager and two fragments. It is developed based on PagerSlidingTabStrip and supports gradient on text color.                               
+50.SlideSwitch is A widget likes switch, which works with ViewPager and two fragments. It is developed based on PagerSlidingTabStrip and supports gradient on text color.                               
 项目地址:https://github.com/small-dream/SlideSwitch                           
 <img src="./image/49-1.gif" width="25%" height="20%"> 
      
-50.ToolbatIndicator:模仿Twitter iOS 客户端顶部栏的指示器.                                          
+51.ToolbatIndicator:模仿Twitter iOS 客户端顶部栏的指示器.                                          
 项目地址:https://github.com/nekocode/ToolbarIndicator                    
 <img src="./image/50-1.gif" width="25%" height="20%">                                    
 
@@ -287,7 +287,7 @@ https://github.com/myjoybar/android-calendar-view
 项目地址:https://github.com/andyxialm/SmoothCheckBox                           
 <img src="./image/55-1.gif" width="25%" height="20%">           
 
-56.可折叠/展开布局与平滑的动画.             
+**56.可折叠/展开布局与平滑的动画.**             
 项目地址:https://github.com/ubdc/CollapseLayout                  
 <img src="./image/56-1.gif" width="25%" height="20%">           
 
