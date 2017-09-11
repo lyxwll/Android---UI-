@@ -337,7 +337,10 @@ https://github.com/JuL1205/SlideshowToolbar
 **69.一个 Android Page 过渡效果 Demo 效果**                    
 https://github.com/xmuSistone/android-page-transition        
 
-**70.**
+**70.一个实现图片花式3D翻转效果的自定义View**            
+https://github.com/zhangyuChen1991/Roll3DImageView         
+
+**71.**
 
 
 
